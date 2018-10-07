@@ -15,8 +15,11 @@
 - These keywords tend to change so it is difficult for law enforcement to make correct predictions on potential human trafficking ads.  
 
 - Our idea is using machine learning and natural language processing to recognize key factors of human trafficking and generate datasets containing keywords and emojis. 
-## What it does
-## How we built it
+
+## What it does?
+- Our program will create a dataset based on the site contents searching for particular emojis and keywords
+- The HTML component is able to upload a CSV file contain the dataset and generating into a JSON file
+## How did we built it?
 
 1. Our original plan was to gather datasets and use machine learning to create an application that can through the sites and scan for keywords that could potential be linked to a sex trafficking advertisement 
 However, as we were working on finding datasets, we were not able to find anything on human trafficking ads analysis. But we did came across studies that spoke of how there are little to no datasets on human trafficking ads. Though we have the tools to build the application that we want, we were missing datasets.  
@@ -40,13 +43,27 @@ and is both difficult and expensive.
 ```
 
 4. We further submitted our data under the MIT Open Source License for future researcher to help predict human trafficking ads. Predicting of ads can allow for law enforcement to target the specific traffickers since they can come into contact with these individuals who often move between places. In addition, we made a simple web app to demo our project that will allow users to visualize and data engineered which will help identify future posts.
-## Challenges we ran into
 
-## Accomplishment we are proud of
+## Challenges
+- Since we weren't able to find any datasets to implement our original idea, we had to generate data ourselves
+- We had a few difficulties with setting up the Google Cloud Natural Language Processing API (GCloud NLP).  We weren't downloading the correct installations so it took us about an hour to fix the problem
+- Since most of us weren't familiar with tools such a Jupyter, git and GCloud NLP, there was a high learning curve
+- Conversion of CSV to JSON was difficult when we were trying to visualize our data
+- Trying to build a website 2 hours before it is due because we didn't have all of the pieces together on time. 
 
-## What we learned
+## Accomplishment 
+- Encoded and decoded emojis in Python
+- Generating semantic analysis and category classification using GCloud NLP
 
-## What’s next
+## What did we learned?
+- How to use Jupyter
+- Data Science
+- Git
+- Python
+- GCloud NLP
+- Beautiful Soup
+
+## What’s next?
 1. We would like to publish and extract larger datasets as more research is needed.
 2. We would like to explore more Machine Learning and Textual Analysis models.
 3. We want to turn this into an API or build better applications to detect human trafficking by using process.
