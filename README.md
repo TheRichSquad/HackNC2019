@@ -1,7 +1,7 @@
 # HackNC 2019 Major Leauge Hacking (MLH) Season 
 - Data Science for Innovation, Social Impact, and Social Good
 - Date: October 6-7th, 2018
-- Created By: [Hansel Wei]()
+- Created By: [Hansel Wei](http://github.com/darkmastermindz), 
 - License: MIT
 - Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for used with Machine Learning.
 - Web App Link: 
@@ -19,7 +19,7 @@
 ## Our Process 
 
 1. Our original plan was to gather datasets and use machine learning to create an application that can through the sites and scan for keywords that could potential be linked to a sex trafficking advertisement 
-However, as we were working on finding datasets, we were not able to find anything on sex trafficking ads analysis. But we did came across studies that spoke of how there are little to no datasets sex ads. Though we have the tools to build the application that we want, we were missing datasets.  
+However, as we were working on finding datasets, we were not able to find anything on human trafficking ads analysis. But we did came across studies that spoke of how there are little to no datasets on human trafficking ads. Though we have the tools to build the application that we want, we were missing datasets.  
 
 2. Therefore we had to explore the unknown and extract raw data from forums, websites and social media and came across a website that had ads with likelyhood of human trafficking to model our project and research which can be found below:
 
