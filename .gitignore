@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# google cloud api key 
+My_First_Project-ecf87926b819.json
