@@ -28,7 +28,7 @@ However, as we were working on finding datasets, we were not able to find anythi
 
 - [Facebook sued for allegedly enabling human trafficking](https://www.engadget.com/2018/10/03/facebook-lawsuit-enabling-human-trafficking/)
 - [(PDF) ResearchGate - Don’t Want to Get Caught? Don’t Say It: The Use of EMOJIS in Online Human Sex Trafficking Ads](https://www.researchgate.net/publication/322537861_Don't_Want_to_Get_Caught_Don't_Say_It_The_Use_of_EMOJIS_in_Online_Human_Sex_Trafficking_Ads%0A)
-- [Deep Dive - Memex Human Trafficking Summary]http://deepdive.stanford.edu/showcase/memex#problem-description
+- [Deep Dive - Memex Human Trafficking Summary](http://deepdive.stanford.edu/showcase/memex#problem-description)
 
 3. We later found out that the majority what we were doing was called feature engineering after we found our raw data points from traversing information through leaked information and connections about Dark Web and utilizing our cyber-threat hunting knowledge through websites like [Pipl - People Search](https://pipl.com) check the validity of the data and find people including usernames, phon we were collecting.
 
