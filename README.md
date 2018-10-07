@@ -1,7 +1,7 @@
 # HackNC 2019 Major Leauge Hacking (MLH) Season 
 - Data Science for Innovation, Social Impact, and Social Good
 - Date: October 6-7th, 2018
-- Created By: [Hansel Wei](http://github.com/darkmastermindz), [Linh Pham](http://github.com/lpham12), [Herambh Yadavalli](),[Timothy Chacko](https://github.com/brownshugga95), 
+- Created By: [Hansel Wei](http://github.com/darkmastermindz), [Linh Pham](http://github.com/lpham12), [Herambh Yadavalli](https://github.com/yherambh), [Timothy Chacko](https://github.com/brownshugga95)
 - License: MIT
 - Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for used with Machine Learning.
 - Web App Link: 
