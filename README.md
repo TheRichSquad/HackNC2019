@@ -18,7 +18,10 @@
 
 ## What it does?
 - Our program will create a dataset based on the site contents searching for particular emojis and keywords
+- It runs sentiment analysis and caragorical Natural Language Processing through the Google Cloud NLP API.
+- Uses seaborn to help visualize data.
 - The HTML component is able to upload a CSV file contain the dataset and generating into a JSON file
+
 ## How did we built it?
 
 1. Our original plan was to gather datasets and use machine learning to create an application that can through the sites and scan for keywords that could potential be linked to a sex trafficking advertisement 
