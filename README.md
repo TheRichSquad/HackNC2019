@@ -67,6 +67,7 @@ and is both difficult and expensive.
 - Beautiful Soup
 
 ## What’s next?
-1. We would like to publish and extract larger datasets as more research is needed.
-2. We would like to explore more Machine Learning and Textual Analysis models.
-3. We want to turn this into an API or build better applications to detect human trafficking by using process.
+1. We would like to clean up our dataset more.
+2. We would like to publish and extract larger datasets as more research is needed.
+3. We would like to explore more Machine Learning and Textual Analysis models.
+4. We want to turn this into an API or build better applications to detect human trafficking by using process.
