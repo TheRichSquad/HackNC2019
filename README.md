@@ -6,7 +6,7 @@
 - Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for used with Machine Learning.
 - Web App Link: 
 
-## Our Motivation
+## Inspiration
 
 - The City of Charlotte is plagued with human trafficking, averaging around 78 cases per year, making it the #1 city in North Carolina.  The inspiration for our project came from a workshop that one of our members attended hosted by an organization that provides assistance to survivors.  During the workshop, the presenter spoke of code words that are used within online advertisements for human trafficking. 
 
@@ -15,8 +15,8 @@
 - These keywords tend to change so it is difficult for law enforcement to make correct predictions on potential human trafficking ads.  
 
 - Our idea is using machine learning and natural language processing to recognize key factors of human trafficking and generate datasets containing keywords and emojis. 
-
-## Our Process 
+## What it does
+## How we built it
 
 1. Our original plan was to gather datasets and use machine learning to create an application that can through the sites and scan for keywords that could potential be linked to a sex trafficking advertisement 
 However, as we were working on finding datasets, we were not able to find anything on human trafficking ads analysis. But we did came across studies that spoke of how there are little to no datasets on human trafficking ads. Though we have the tools to build the application that we want, we were missing datasets.  
@@ -40,8 +40,13 @@ and is both difficult and expensive.
 ```
 
 4. We further submitted our data under the MIT Open Source License for future researcher to help predict human trafficking ads. Predicting of ads can allow for law enforcement to target the specific traffickers since they can come into contact with these individuals who often move between places. In addition, we made a simple web app to demo our project that will allow users to visualize and data engineered which will help identify future posts.
+## Challenges we ran into
 
-## TODO (Future)
+## Accomplishment we are proud of
+
+## What we learned
+
+## What’s next
 1. We would like to publish and extract larger datasets as more research is needed.
 2. We would like to explore more Machine Learning and Textual Analysis models.
 3. We want to turn this into an API or build better applications to detect human trafficking by using process.
