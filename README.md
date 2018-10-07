@@ -44,4 +44,4 @@ and is both difficult and expensive.
 ## TODO (Future)
 1. We would like to publish and extract larger datasets as more research is needed.
 2. We would like to explore more Machine Learning and Textual Analysis models.
-3. We potentially can turn this into an API or build better applications to detect human trafficking by using process.
+3. We want to turn this into an API or build better applications to detect human trafficking by using process.
