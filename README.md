@@ -3,7 +3,7 @@
 - Date: October 6-7th, 2018
 - Created By: [Hansel Wei](http://github.com/darkmastermindz), [Linh Pham](http://github.com/lpham12), [Herambh Yadavalli](https://github.com/yherambh), [Timothy Chacko](https://github.com/brownshugga95)
 - License: MIT
-- Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for used with Machine Learning.
+- Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for use with Machine Learning.
 - Devpost Submission to HackNC: https://devpost.com/software/human-trafficking-textual-and-emoji-analysis
 - Web App Link: 
 
