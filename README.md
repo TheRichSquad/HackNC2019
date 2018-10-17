@@ -3,8 +3,7 @@
 - Date: October 6-7th, 2018
 - Created By: [Hansel Wei](http://github.com/darkmastermindz), [Linh Pham](http://github.com/lpham12), [Herambh Yadavalli](https://github.com/yherambh), [Timothy Chacko](https://github.com/brownshugga95)
 - License: MIT
-- Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for use with Machine Learning.
-- Devpost Submission to HackNC: https://devpost.com/software/human-trafficking-textual-and-emoji-analysis
+- Description: Human Trafficking Textual & Emoji Analysis and Feature Generation for used with Machine Learning.
 - Web App Link: 
 
 ## Inspiration
@@ -46,7 +45,7 @@ Feature engineering is fundamental to the application of machine learning,
 and is both difficult and expensive.
 ```
 
-4. We further submitted our data under the MIT Open Source License for future researcher to help predict human trafficking ads. Predicting of ads can allow for law enforcement to target the specific traffickers since they can come into contact with these individuals who often move between places. In addition, we made a simple web app to demo our project that will allow users to visualize and data engineered which will help identify future posts.
+4. We further submitted our data under the MIT Open Source License in hopes that future researchers can help us predict human trafficking ads. Predicting of ads can allow for law enforcement to target the specific traffickers since they can come into contact with these individuals who often move between places. In addition, we made a simple web app to demo our project that will allow users to visualize and data engineered which will help identify future posts.
 
 ## Challenges
 - Since we weren't able to find any datasets to implement our original idea, we had to generate data ourselves
@@ -68,7 +67,6 @@ and is both difficult and expensive.
 - Beautiful Soup
 
 ## What’s next?
-1. We would like to clean up our dataset more.
-2. We would like to publish and extract larger datasets as more research is needed.
-3. We would like to explore more Machine Learning and Textual Analysis models.
-4. We want to turn this into an API or build better applications to detect human trafficking by using process.
+1. We would like to publish and extract larger datasets as more research is needed.
+2. We would like to explore more Machine Learning and Textual Analysis models.
+3. We want to turn this into an API or build better applications to detect human trafficking by using process.
