@@ -58,7 +58,7 @@ and is both difficult and expensive.
 - Encoded and decoded emojis in Python
 - Generating semantic analysis and category classification using GCloud NLP
 
-## What did we learned?
+## What did we learn?
 - How to use Jupyter
 - Data Science
 - Git
